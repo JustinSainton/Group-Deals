@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Group Deals\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-09 09:51-0800\n"
+"PO-Revision-Date: 2011-04-09 09:51-0800\n"
+"Last-Translator: Justin Sainton <justinsainton@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Justin\\Documents\\Group Deals\n"
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:32
+msgid "All daily deals for this vendor are listed below.  Clicking on the link will take you to the admin page for that daily deal."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:49
+msgid "Fill out all financial details for your vendor here. Fill this out as completely and accurately as possible."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:51
+msgid "Preferred method of payment:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:52
+msgid "Paypal"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:53
+msgid "Check"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:55
+#: Deals/wpec-gd-admin/admin-functions.php:56
+msgid "Paypal email address, if applicable:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:59
+msgid "You can change the amount of profit sharing you do with each vendor.  Many sites do 50%/50%, but you can do anything you want. Enter the percentage the <strong>vendor</strong> should receive, just the number, without the percentage sign."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:187
+msgid "Select a business"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:201
+msgid "Show Google Map?"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:218
+msgid "Enter highlights here.  One per line, no HTML."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:256
+msgid "Group Deal Details"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:257
+msgid "Business Details"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:258
+msgid "Fine Print"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:259
+msgid "Highlights"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:401
+msgid "Daily Deal Count"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:445
+msgid "Purchase Log Date:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:446
+msgid "Buyers Name:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:447
+msgid "Address:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:448
+msgid "Phone:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:449
+msgid "Email:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:462
+msgid "Address"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:463
+msgid "Phone"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:464
+msgid "URL"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:478
+msgid "Product link"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:479
+msgid "Customer's redemption code"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:480
+msgid "Product Fine Print"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/admin-functions.php:481
+msgid "Product Highlights"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:36
+#: Deals/wpec-gd-admin/settings.php:460
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:37
+#: Deals/wpec-gd-admin/settings.php:475
+msgid "Email Templates"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:39
+msgid "Group Deals API ID"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:40
+msgid "Group Deal Image Width"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:41
+msgid "Group Deal Image Height"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:42
+msgid "Crop Images?"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:43
+msgid "Paypal Email:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:44
+msgid "Site Owner - Deal Tipped {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:45
+msgid "Site Owner - Deal Tipped {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:46
+msgid "Site Owner - Deal Untipped {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:47
+msgid "Site Owner - Deal Untipped {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:48
+msgid "Site Owner - Deal Expired {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:49
+msgid "Site Owner - Deal Expired {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:50
+msgid "Business Owner - Deal Tipped {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:51
+msgid "Business Owner - Deal Tipped {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:52
+msgid "Business Owner - Deal Untipped {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:53
+msgid "Business Owner - Deal Untipped {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:54
+msgid "Business Owner - Deal Expired {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:55
+msgid "Business Owner - Deal Expired {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:56
+msgid "Deal Purchaser - Deal Tipped {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:57
+msgid "Deal Purchaser - Deal Tipped {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:58
+msgid "Deal Purchaser - Deal Untipped {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:59
+msgid "Deal Purchaser - Deal Untipped {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:60
+msgid "Deal Purchaser - Deal Expired {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:61
+msgid "Deal Purchaser - Deal Expired {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:62
+msgid "Deal Purchaser - New Deal {Subject}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:63
+msgid "Deal Purchaser - New Deal {Body}"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:68
+#: Deals/wpec-gd-admin/settings.php:455
+msgid "WPEC Group Deal Options"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:68
+msgid "Group Deals"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:81
+#: Deals/wpec-gd-admin/settings.php:461
+msgid "Fill out your primary configuration settings here."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:85
+#: Deals/wpec-gd-admin/settings.php:476
+msgid "There are several emails that will be automatically sent.  By default, they are plain-text emails.  Change the text or even input HTML templates based on your website (Hint: Click the \"HTML\" button).  Need some HTML email templates created?  <a href=\"http://groupdealsplugin.com/services/theming\" target=\"_blank\">We can help with that</a>.  Here is the <a href=\"#\" class=\"list_email_tags\">list of tags</a> to use in your template."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:86
+#: Deals/wpec-gd-admin/settings.php:477
+msgid "There are three separate events that will trigger an email.  When a new deal launches, when a deal tips and when a deal expires.  When a new deal launches, subscribers are emailed.  When a deal tips or expires; you, the business and the deal purchasers are all emailed.  Subjects and content for each of those emails are listed below."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:91
+#: Deals/wpec-gd-admin/settings.php:482
+msgid "Shows deal title"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:95
+#: Deals/wpec-gd-admin/settings.php:486
+msgid "Shows deal value"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:99
+#: Deals/wpec-gd-admin/settings.php:490
+msgid "Shows deal image"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:103
+#: Deals/wpec-gd-admin/settings.php:494
+msgid "Shows actual deal price"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:107
+#: Deals/wpec-gd-admin/settings.php:498
+msgid "Shows actual deal discount as a percentage"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:111
+#: Deals/wpec-gd-admin/settings.php:502
+msgid "Shows actual deal savings as currency, e.g. $50.00"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:115
+#: Deals/wpec-gd-admin/settings.php:506
+msgid "Shows link to deal"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:119
+#: Deals/wpec-gd-admin/settings.php:510
+msgid "Shows name of your site"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:123
+#: Deals/wpec-gd-admin/settings.php:514
+msgid "Displays user account login url"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:127
+#: Deals/wpec-gd-admin/settings.php:518
+msgid "Displays \"tipping point\", the number of sales necessary for the deal to become active"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:131
+#: Deals/wpec-gd-admin/settings.php:522
+msgid "Shows deal description"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:135
+#: Deals/wpec-gd-admin/settings.php:526
+msgid "Displays highlights of the deal"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:139
+#: Deals/wpec-gd-admin/settings.php:530
+msgid "Displays fine print of the deal"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:143
+#: Deals/wpec-gd-admin/settings.php:534
+msgid "Displays description of vendor."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:147
+#: Deals/wpec-gd-admin/settings.php:538
+msgid "Displays name of vendor."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:456
+msgid "Configuring your group deals website properly is very important - make sure you go through all of these fields carefully."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:554
+msgid "Social Media Configuration"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-admin/settings.php:555
+msgid "We're packed full of social media integration!  You can like, tweet, share and connect however you like.  In order for everything to work, it needs to be properly configured.  You definitely need to get a Facebook API key, here's <a href='http://www.youtube.com/watch?v=jYqx-RtmkeU&feature=player_embedded'>a great tutorial</a> on how to do just that."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:67
+msgid "The website administrator needs to flush the theme cache or reactivate the theme.  Oops!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:91
+#, php-format
+msgid "Uh-oh!  Looks like you have not entered your Group Deals API key yet.  You will definitely need to do that for Group Deals to work.  Head over to the <a href=\"%1s\">Group Deals Settings</a> page and enter it.  It was displayed to you when you purchased Group Deals and was also emailed to you."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:97
+msgid "Uh-oh!  You appear to have entered your API key incorrectly.  Make sure your site URL in your General Settings matches the domain you entered and the API key you entered matches what you received."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:137
+msgid "Every Five Minutes"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:171
+msgid "Company website"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:298
+msgid "Limited quantity available"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:339
+msgid "The deal is on!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:343
+msgid "Tipped at"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:343
+msgid "with"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:343
+msgid "bought"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:354
+msgid "more needed to get the deal"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:539
+#, php-format
+msgid "The Deal (%2$s) at %1$s from %3$s tipped!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:931
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:953
+msgid "Authentication Failed.  Either you are hacking or you need to call us."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1004
+msgid "Thanks for your Group Deal order!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1041
+msgid "Your redemption code"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1042
+msgid "Use this code at the business to redeem your group deal"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1061
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1062
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1070
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1063
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1065
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1071
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-functions.php:1074
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:13
+msgid "Add New Vendor"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:14
+msgid "Edit Vendor"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:15
+msgid "New Vendor"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:16
+msgid "View Vendor"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:17
+msgid "Search Vendors"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:18
+msgid "No vendors found"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:19
+msgid "No vendors found in Trash"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:41
+msgid "Add New Order"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:42
+msgid "Edit Order"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:43
+msgid "New Order"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:44
+msgid "View Order"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:45
+msgid "Search Orders"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:46
+msgid "No orders found"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:47
+msgid "No orders found in Trash"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:70
+msgid "Great news! [deal_title] at your site, [store_name], just tipped!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:71
+msgid "That's right!  [deal_title] just tipped with [tipping_point] sales!  Super exciting!  Now you just have to wait for the deal to expire!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:74
+msgid "Bummer! [deal_title] expired and it did not tip."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:75
+msgid "True, unfortunately, [deal_title] didn\\t reach [tipping_point] sales.  You can definitely contact the business owner to see if they would like to re-run the deal."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:78
+msgid "[deal_title] just expired on your site! Time to rake in the dough!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:79
+msgid "[deal_title] just tipped!  Congratulations!  All of the payments to you, the business owner and any affiliates are already being handled; the business owner and all subscribers have been notified via email."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:82
+msgid "Congratulations!  Your deal, [deal_title], at [store_name] just tipped!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:83
+msgid "That\\s right! Your deal just tipped at [store_name].  We will send you another email as soon as the deal expires.  When it expires, you will automatically be paid via your preferred payment method and emailed a list of all the customers and their redemption codes."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:86
+msgid "Bummer!  Your deal, [deal_name] at [store_name] has expired and didn't tip. "
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:87
+msgid "Sad, but true.  Unfortunately, we were not able to get your desired amount of sales.  Shoot us an email, we'd be happy to look at re-running the deal for a longer period or with a lower tipping point if you want to try that."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:90
+msgid "Your deal, [deal_name], just expired at [store_name]! Time to rake in the dough!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:91
+msgid "Congratulations!  Your deal, [deal_name], just expired! All of the payments to you, [store_name] and any affiliates are already being handled and you should receive a separate email with the CSV file of customers and redemption codes."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:94
+msgid "Congratulations!  The deal you purchased. [deal_name],  at [store_name] just tipped!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:95
+msgid "That's right! That means you DEFINITELY get the deal, way to go!  Your card will be charged just as soon as the deal expires.  You will be able to login at [login_url] to get your redemption code."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:98
+msgid "Bummer!  The deal you purchased didn't tip!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:99
+msgid "Sad day!  The deal you purchased, [deal_name], never tipped.  That means the minimum amount of sales, [tipping_point] was not met.  Good news?  Your card won't be charged.  Bad news?  Missed out a killer deal.  Next time?  Tell ALL your friends about it so you get the deal!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:102
+msgid "Congratulations!  The deal you purchased, [deal_name] just expired and is ready"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:103
+msgid "Congratulations!  The deal you purchased, [deal_name], just expired! That means your card will be billed shortly.  You can login at [login_url] with your username and password to retreive the redemption code you will need to show the business when you redeem your group deal.  Way to save a ton of money!"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:106
+msgid "[deal_name]"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-includes/wpec-dd-installer.php:107
+msgid "New Deal at [store_name] from [business_name]<br /><br />Deal: [deal_name] <br /> Original Price: [deal_price] <br /> Group Deal Price: [deal_sale_price] <br />Total Discount: [deal_discount] <br /> Total Savings: [deal_savings]<br /> <a href=\"[deal_link]\">Buy Now</a><br />Description: [description]<br />Highlights: [highlights]<br /> Fine Print: [fine_print]<br /> Company Information: [company_info]"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:8
+msgid "GD FB Connect Widget. Creates Facebook Login/Logout button. Smart enough to create accounts for new users, and associate accounts for current users."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:54
+msgid "Widget title:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:60
+msgid "Login button text:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:66
+msgid "Logout button text:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:72
+msgid "Connect button text:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:78
+msgid "Size:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:80
+msgid "small"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:80
+msgid "medium"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:80
+msgid "large"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:80
+msgid "xlarge"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:102
+msgid "Creates Facebook Like Button on Group Deal page.  You can manually integrate with the wpec_gd_fb_like() function."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:130
+msgid "Standard"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:131
+msgid "Button Count"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:132
+msgid "Box Count"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:136
+#: Deals/wpec-gd-social/widget.php:146
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:137
+#: Deals/wpec-gd-social/widget.php:147
+msgid "No"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:141
+msgid "Like"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:142
+msgid "Recommend"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:156
+msgid "Facebook \"Like\" Layout:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:166
+msgid "Show Faces?:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:176
+msgid "Verb to use:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:186
+msgid "Show Twitter Share Link?:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:196
+msgid "Box Width?:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-social/widget.php:202
+msgid "Box Height?:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-theme/wpec-gd-group-deals-home.php:8
+msgid "The Fine Print"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-theme/wpec-gd-group-deals-home.php:21
+msgid "The Company"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-theme/wpec-gd-group-deals-home.php:25
+msgid "Description"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/ajax-reg-form.php:11
+msgid "GD Ajax Registration Form"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/ajax-reg-form.php:33
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:61
+#: Deals/wpec-gd-widgets/progress-bar.php:52
+#: Deals/wpec-gd-widgets/time-left-to-buy-box.php:40
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:11
+msgid "Group Deals Buy Now & Price Box.  Will only show on home page."
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:12
+msgid "GD Buy Now & Price Box"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:26
+msgid "Buy"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:33
+msgid "Value"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:37
+msgid "Discount"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/buy-now-price-box.php:41
+msgid "You Save"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/progress-bar.php:11
+msgid "GD Progress Bar Box"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/progress-bar.php:23
+msgid "purchased"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/time-left-to-buy-box.php:11
+msgid "GD Time Left to Buy Box"
+msgstr ""
+
+#: C:\Users\Justin\Documents\Group
+#: Deals/wpec-gd-widgets/time-left-to-buy-box.php:20
+msgid "Time Left to buy"
+msgstr ""
+

@@ -1,0 +1,127 @@
+/* 
+    Document   : wpec_dd
+    Created on : Nov 30, 2010, 8:13:13 PM
+    Author     : Justin
+    Description:
+        WPEC Daily Deal overwriting rules for WPEC
+*/
+
+span.close {
+    padding: 13px 17px 52px 13px;
+    cursor: pointer;
+    position: absolute;
+    top: 4px;
+    right: 9px;
+}
+label[for="add_form_donation"],
+label[htmlFor="add_form_donation"],
+label[for="table_rate_price"],
+label[htmlFor="table_rate_price"],
+input#table_rate_price,
+input#add_form_donation,
+a.wpsc_add_new_currency{
+    display: none;
+}
+div#wpsc_price_control_forms {
+    max-height:90px;
+}
+#business_id {
+    width:150px;
+    padding:4px;
+}
+#wpec_dd_vendor_details input,
+#wpec_dd_vendor_details textarea {
+    width:100%;
+}
+#wpsc_product_list .column-sale_price {
+    width:105px;
+}
+#wpsc_product_list .column-price {
+    width:115px;
+}
+#wpsc_product_list .column-title {
+    width:350px;
+}
+#ajax-registration-list {
+	list-style-type: none;
+}
+#drawer #division_drawer li#registration-status-message, 
+#drawer #follow_drawer li#registration-status-message, 
+#drawer #admin_nav li#registration-status-message {
+    float:none;
+    clear:both;
+    padding:6px;
+    margin: 10px 0 5px 50%;
+    font-size:1.2em;
+    min-width:250px;
+    width:auto;
+    text-align:center;
+    display:none;
+    position:relative;
+}
+#drawer #follow_drawer form#ajax-registration-form li.error {
+    background-color: #FFEBE8;
+    border: 1px solid #CC0000;
+    display:inline-block;
+}
+form#ajax-registration-form li.success {
+    background-color: #E0FFE1;
+    border: 1px solid #03CC00;
+    display:inline-block;
+}
+
+dl.border-around {
+    margin: 2em 0;
+    padding: 0;
+    display:inline;
+}
+
+.border-around dt
+{
+	background-color: #131210;
+	color: #959289;
+	padding: .5em;
+	font-weight: bold;
+	text-align: center;
+	border-left: 1px solid #131210;
+	border-right: 1px solid #131210;
+	border-top: 1px solid #131210;
+}
+
+.border-around dd
+{
+	margin: 0 0 1em 0;
+	background: #DBD8D8;
+	text-align: center;
+	padding: 1em .5em;
+	font-style: italic;
+	border-left: 1px solid #131210;
+	border-right: 1px solid #131210;
+	border-bottom: 1px solid #131210;
+}
+.border-around div.list_container {
+    float:left;
+    margin:1em;
+    width:200px;
+}
+
+.deal #buy_btn.gd_sold_out {
+    padding:10px;
+    white-space: nowrap;
+    font-size:26px;
+    cursor:default;
+}
+#exptime_options img,
+#email_deal_to_subscribers img {
+	margin : 0 0 -3px 3px;
+}
+.gd_ajax_message.error {
+    padding: 6px;
+}
+.gd_ajax_message.success {
+    background-color: #E0FFE1;
+    border: 1px solid #03CC00;
+    padding: 6px;
+    margin-top:5px;
+    
+}
