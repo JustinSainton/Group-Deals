@@ -1377,17 +1377,20 @@ function wpec_gd_api_info() {
  * 
  * @todo Also, only creates multiple Group Orders if quantity greater than one, not multiple sales.  So only one email goes out.
  */
-function wpec_dd_add_order() {
-	global $post, $wpdb, $wpsc_cart, $user_ID;
+function wpec_dd_add_order( $purchase_log_object, $sessionid, $display_to_screen ) {
 
-		if ( ! isset( $user_ID ) )
-			$user_ID = 1;
+	if ( ! $display_to_screen )
+		return;
 
-		$sessionid = $_GET["sessionid"];
+	global $user_ID;
 
-		$product_id = $wpsc_cart->cart_items[0]->product_id;
+	if ( ! isset( $user_ID ) )
+		$user_ID = 1;
+
+	$cart_items = $purchase_log_object->get_cart_contents();
+	$product_id = $cart_items[0]->prodid;
 		
-	 for( $quantity = $wpsc_cart->cart_items[0]->quantity; $quantity > 0; $quantity = $quantity - 1 ) {
+	 for( $quantity = $cart_items[0]->quantity; $quantity > 0; $quantity = $quantity - 1 ) {
 		$args = array(
 			'post_status' => 'publish',
 			'post_type' => 'wpec-dd-purchase',
@@ -1411,7 +1414,7 @@ function wpec_dd_add_order() {
 
 		$order_id = wp_insert_post( $order_args );
 
-		if( isset( $_SESSION["payKey"] ) )
+		if(  isset( $_SESSION["payKey"] ) )
 			add_post_meta( $order_id, '_pay_key', $_SESSION["payKey"], true );
 		
 		//Checks if this purchase is what tipped it, if so, act accordingly
@@ -1441,7 +1444,7 @@ function wpec_dd_add_order() {
 		echo "<p>". apply_filters( 'wpec_gd_thank_you_message', __( 'Thanks for your Group Deal order!', 'wpec-group-deals' ) ) ."<br /></p>";
 }
 
-add_action( 'wpsc_confirm_checkout', 'wpec_dd_add_order' );
+add_action( 'wpsc_transaction_results_shutdown', 'wpec_dd_add_order', 15, 3 );
 
 function wpec_dd_set_contenttype( $content_type ){
 	return 'text/html';
